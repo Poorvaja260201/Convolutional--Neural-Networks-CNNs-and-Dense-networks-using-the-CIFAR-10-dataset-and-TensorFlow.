@@ -1,1 +1,1 @@
-# onvolu-onal-Neural-Networks-CNNs-and-Dense-networks-using-the-CIFAR-10-dataset-and-TensorFlow.
+# Convolu-onal-Neural-Networks-CNNs-and-Dense-networks-using-the-CIFAR-10-dataset-and-TensorFlow.
